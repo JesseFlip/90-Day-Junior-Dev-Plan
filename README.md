@@ -8,4 +8,4 @@ It focuses on skill-building, project development, and job preparation, with a s
 ## What's Inside
 - Month 1: Core Python and Git fundamentals
 - Month 2: Project portfolio building (Flask apps, automation scripts)
-- Month 3:
+- Month 3: Resume building, LinkedIn updates, and job application sprint
