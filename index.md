@@ -9,7 +9,7 @@ Welcome to your battle-tested, professional roadmap to transition into a Junior 
 **Objective:** Master foundational tools and concepts.
 
 ### Skills to Focus On:
-- Python Fundamentals :point_left: I'm right here
+- Python Fundamentals 👈 I'm right here
 - Object-Oriented Programming (OOP)
 - Working with Files (CSV, JSON, APIs)
 - Git and GitHub Basics
